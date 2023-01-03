@@ -1,0 +1,2 @@
+void combatti();
+void titolo();
